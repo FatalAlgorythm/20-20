@@ -1,0 +1,24 @@
+*{
+	text-align:center;
+}
+header{
+	background:blue;
+}
+footer{
+	background: purple;
+}
+article:nth-child(even){
+	background: yellow;
+}
+article:nth-child(odd){
+	background: green;
+}
+#retorno{
+	background: pink;
+}
+.menu{
+	color: red;
+}
+p{
+	background:gray;
+}
